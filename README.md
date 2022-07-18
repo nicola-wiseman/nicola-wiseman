@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**nicola-wiseman/nicola-wiseman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Welcome!
+- Prounouns: she/they
+- I'm currently working at NCAR Mesa Lab with the Graduate Visitor Program!
+- My research focuses on biological pump controls on biogeochemical cycling using CESM
+- My research interests include:
+  - Ecological stoichiometry
+  - Iron cycling
+  - Biological pump
+  - Anthropogenic impacts on the biological pump
+  - Global carbon cycling over long-term timescales
