@@ -1,9 +1,10 @@
 ### Welcome!
 - Prounouns: she/they
-- I'm currently working at NCAR Mesa Lab with the Graduate Visitor Program!
-- My research focuses on biological pump controls on biogeochemical cycling using CESM
+- I'm currently working at Univeristy of Bristol as a Post Doctoral Research Associate!
+- My research focuses on biological and solubility pump contributions to the global carbon cycle using ML
 - My research interests include:
   - Ecological stoichiometry
+  - Carbonate pump
   - Iron cycling
   - Biological pump
   - Anthropogenic impacts on the biological pump
